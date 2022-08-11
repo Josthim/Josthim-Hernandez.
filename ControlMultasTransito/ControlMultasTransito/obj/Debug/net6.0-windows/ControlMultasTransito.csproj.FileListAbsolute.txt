@@ -1,0 +1,17 @@
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\bin\Debug\net6.0-windows\ControlMultasTransito.exe
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\bin\Debug\net6.0-windows\ControlMultasTransito.deps.json
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\bin\Debug\net6.0-windows\ControlMultasTransito.runtimeconfig.json
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\bin\Debug\net6.0-windows\ControlMultasTransito.dll
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\bin\Debug\net6.0-windows\ControlMultasTransito.pdb
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.csproj.AssemblyReference.cache
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.frmMultas.resources
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.csproj.GenerateResource.cache
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.GeneratedMSBuildEditorConfig.editorconfig
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.AssemblyInfoInputs.cache
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.AssemblyInfo.cs
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.csproj.CoreCompileInputs.cache
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.dll
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\refint\ControlMultasTransito.dll
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.pdb
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ControlMultasTransito.genruntimeconfig.cache
+E:\Josthim Hernandez\Introduccion2\ControlMultasTransito\ControlMultasTransito\obj\Debug\net6.0-windows\ref\ControlMultasTransito.dll
