@@ -1,0 +1,17 @@
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\bin\Debug\net6.0-windows\pjSeguroVida.exe
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\bin\Debug\net6.0-windows\pjSeguroVida.deps.json
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\bin\Debug\net6.0-windows\pjSeguroVida.runtimeconfig.json
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\bin\Debug\net6.0-windows\pjSeguroVida.dll
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\bin\Debug\net6.0-windows\pjSeguroVida.pdb
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\pjSeguroVida.csproj.AssemblyReference.cache
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\pjSeguroVida.Form1.resources
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\pjSeguroVida.csproj.GenerateResource.cache
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\pjSeguroVida.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\pjSeguroVida.AssemblyInfoInputs.cache
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\pjSeguroVida.AssemblyInfo.cs
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\pjSeguroVida.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\pjSeguroVida.dll
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\refint\pjSeguroVida.dll
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\pjSeguroVida.pdb
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\pjSeguroVida.genruntimeconfig.cache
+E:\Nueva carpeta (2)\EstrcturaRepeticion\pjSeguroVida\obj\Debug\net6.0-windows\ref\pjSeguroVida.dll
