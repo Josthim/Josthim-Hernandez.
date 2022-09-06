@@ -1,0 +1,17 @@
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\pjDivisionEntreCero.csproj.AssemblyReference.cache
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\pjDivisionEntreCero.DivisionEntreCero.resources
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\pjDivisionEntreCero.csproj.GenerateResource.cache
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\pjDivisionEntreCero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\pjDivisionEntreCero.AssemblyInfoInputs.cache
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\pjDivisionEntreCero.AssemblyInfo.cs
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\pjDivisionEntreCero.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\bin\Debug\net6.0-windows\pjDivisionEntreCero.exe
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\bin\Debug\net6.0-windows\pjDivisionEntreCero.deps.json
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\bin\Debug\net6.0-windows\pjDivisionEntreCero.runtimeconfig.json
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\bin\Debug\net6.0-windows\pjDivisionEntreCero.dll
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\bin\Debug\net6.0-windows\pjDivisionEntreCero.pdb
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\pjDivisionEntreCero.dll
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\refint\pjDivisionEntreCero.dll
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\pjDivisionEntreCero.pdb
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\pjDivisionEntreCero.genruntimeconfig.cache
+C:\Users\JADPA-27\source\repos\POO\pjDivisionEntreCero\obj\Debug\net6.0-windows\ref\pjDivisionEntreCero.dll
