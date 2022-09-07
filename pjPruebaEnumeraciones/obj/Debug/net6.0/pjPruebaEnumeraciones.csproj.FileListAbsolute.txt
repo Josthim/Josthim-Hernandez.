@@ -1,0 +1,15 @@
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\bin\Debug\net6.0\pjPruebaEnumeraciones.exe
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\bin\Debug\net6.0\pjPruebaEnumeraciones.deps.json
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\bin\Debug\net6.0\pjPruebaEnumeraciones.runtimeconfig.json
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\bin\Debug\net6.0\pjPruebaEnumeraciones.dll
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\bin\Debug\net6.0\pjPruebaEnumeraciones.pdb
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\obj\Debug\net6.0\pjPruebaEnumeraciones.csproj.AssemblyReference.cache
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\obj\Debug\net6.0\pjPruebaEnumeraciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\obj\Debug\net6.0\pjPruebaEnumeraciones.AssemblyInfoInputs.cache
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\obj\Debug\net6.0\pjPruebaEnumeraciones.AssemblyInfo.cs
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\obj\Debug\net6.0\pjPruebaEnumeraciones.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\obj\Debug\net6.0\pjPruebaEnumeraciones.dll
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\obj\Debug\net6.0\refint\pjPruebaEnumeraciones.dll
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\obj\Debug\net6.0\pjPruebaEnumeraciones.pdb
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\obj\Debug\net6.0\pjPruebaEnumeraciones.genruntimeconfig.cache
+C:\Users\JADPA-27\Source\Repos\POO\pjPruebaEnumeraciones\obj\Debug\net6.0\ref\pjPruebaEnumeraciones.dll
