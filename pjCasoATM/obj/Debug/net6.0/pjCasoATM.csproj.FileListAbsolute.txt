@@ -1,0 +1,15 @@
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\bin\Debug\net6.0\pjCasoATM.exe
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\bin\Debug\net6.0\pjCasoATM.deps.json
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\bin\Debug\net6.0\pjCasoATM.runtimeconfig.json
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\bin\Debug\net6.0\pjCasoATM.dll
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\bin\Debug\net6.0\pjCasoATM.pdb
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\obj\Debug\net6.0\pjCasoATM.csproj.AssemblyReference.cache
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\obj\Debug\net6.0\pjCasoATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\obj\Debug\net6.0\pjCasoATM.AssemblyInfoInputs.cache
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\obj\Debug\net6.0\pjCasoATM.AssemblyInfo.cs
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\obj\Debug\net6.0\pjCasoATM.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\obj\Debug\net6.0\pjCasoATM.dll
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\obj\Debug\net6.0\refint\pjCasoATM.dll
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\obj\Debug\net6.0\pjCasoATM.pdb
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\obj\Debug\net6.0\pjCasoATM.genruntimeconfig.cache
+C:\Users\JADPA-27\source\repos\pjCasoATM\pjCasoATM\obj\Debug\net6.0\ref\pjCasoATM.dll
