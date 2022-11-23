@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pjControlRegistroMascota", "pjControlRegistroMascota\pjControlRegistroMascota.csproj", "{DEE4DF40-300A-4112-AC2C-984AC4CE4ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEE4DF40-300A-4112-AC2C-984AC4CE4ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE4DF40-300A-4112-AC2C-984AC4CE4ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE4DF40-300A-4112-AC2C-984AC4CE4ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE4DF40-300A-4112-AC2C-984AC4CE4ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C4DABB9-80D6-46C0-B295-7944C747DDC3}
+	EndGlobalSection
+EndGlobal
